@@ -1,0 +1,17 @@
+header{
+    
+    text-align:center;
+}
+nav h2{
+    color:rgb(188, 89, 97);
+    font-family:'Courier New', Courier, monospace ;
+    text-align:center
+}
+a{
+    color:rgb(188, 89, 97);
+    
+    text-decoration:underline orangered;
+    font-family:'Courier New', Courier, monospace ;
+    text-align:center;
+    background-color: lawngreen;
+}
